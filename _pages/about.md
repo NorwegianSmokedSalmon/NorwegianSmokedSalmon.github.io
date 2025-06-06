@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Lijie Wang, you can call me Jack Wang. I am currently a senior undergraduate student majoring in **Robotics Engineering** at **Chu Kochen Honors College**, **Zhejiang University**. My research interests lie in robot mapping, intelligent perception, and autonomous navigation. I have been admitted to the <a href='https://http://zju-fast.com/'>FASTLab<strong><span id='total_cit'></span></strong></a> at Zhejiang University as a master’s student, starting in September 2025, under the supervision of **Prof. Fei Gao**.
+Hi! I'm Lijie Wang, you can call me Jack Wang. I am currently a senior undergraduate student majoring in **Robotics Engineering** at **Chu Kochen Honors College**, **Zhejiang University**. My research interests lie in robot mapping, intelligent perception, and autonomous navigation. I have been admitted to the <a href='http://zju-fast.com/'>FAST Lab<strong><span id='total_cit'></span></strong></a> at Zhejiang University as a master’s student, starting in September 2025, under the supervision of <a href='https://scholar.google.com/citations?hl=en&user=4RObDv0AAAAJ&view_op=list_works&sortby=pubdate'>Pro. Fei Gao<strong><span id='total_cit'></span></strong></a>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+During my undergraduate years, I actively participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm now the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a>. As a core member, I have led the team to achieve multiple awards.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 One Paper is accepted to 2025 ICRA!
+- *2024.07*: &nbsp;🎉🎉 We win the second place in the small size league at the Robocup international competition in Eindhoven, the Netherlands!
+- *2024.02*: &nbsp;🎉🎉 We win two championships in the small size league in the Robocup China Series in Quanzhou, Fujian!
+- *2024.02*: &nbsp;🎉🎉 We win the third place in the small size league in the Robocup Japan Open!
 
 # 📝 Publications 
 
