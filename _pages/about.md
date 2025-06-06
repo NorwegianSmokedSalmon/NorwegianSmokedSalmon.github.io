@@ -24,8 +24,8 @@ During my undergraduate years, I actively participate in research and competitio
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One Paper is accepted to 2025 ICRA!
 - *2024.07*: &nbsp;🎉🎉 We win the second place in the small size league at the Robocup international competition in Eindhoven, the Netherlands!
-- *2024.02*: &nbsp;🎉🎉 We win two championships in the small size league in the Robocup China Series in Quanzhou, Fujian!
-- *2024.02*: &nbsp;🎉🎉 We win the third place in the small size league in the Robocup Japan Open!
+- *2024.05*: &nbsp;🎉🎉 We win two championships in the small size league in the Robocup China Series in Quanzhou, Fujian!
+- *2024.03*: &nbsp;🎉🎉 We win the third place in the small size league in the Robocup Japan Open!
 
 # 📝 Publications 
 
@@ -34,26 +34,38 @@ During my undergraduate years, I actively participate in research and competitio
 
 [RISED: Accurate and Efficient RGB-Colorized Mapping Using Image Selection and Point Cloud Densification](https://changjianjiang01.github.io/rised-homepage/)
 
-Changjian Jiang*, **Lijie Wang***, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong, Yu Zhang
+Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong, Yu Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://changjianjiang01.github.io/rised-homepage/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A offline system for high-precision dense color point cloud reconstruction, which provides a different approach from the current method and proposes a comprehensive and quantitative evaluation standard for colorized point clouds.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to TMECH</div><img src='images/graphicAbstract.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[:lemon: :lemon: LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://www.arxiv.org/abs/2505.10018)
+
+**Lijie Wang**, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, Fei Gao
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZS1QXCIAAAAJ&citation_for_view=ZS1QXCIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A multi-robot point cloud map fusion and optimization system that can generate locally accurate and globally consistent multi-robot maps, effectively eliminating blur and divergence of the map.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* , Scholarship of <a href='https://cn.a4x.io/'>a4x<strong><span id='total_cit'></span></strong></a>.
+
 
 # 📖 Educations
-- *2021.06 - 2025.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (now)*, B.Eng. in Robotics Engineering at Zhejiang University with an honor degree at Chu Kochen Honor College.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Competitions
+- *2024.07*, the second place in the small size league at the Robocup international competition in Eindhoven, the Netherlands. 
+- *2024.05*, two championships in the small size league in the Robocup China Series in Quanzhou, Fujian.
+- *2024.03*, the third place in the small size league in the Robocup Japan Open.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Hobbies
+-  Texas Hold'em, Table Tennis, Swimming and Sleeping!
