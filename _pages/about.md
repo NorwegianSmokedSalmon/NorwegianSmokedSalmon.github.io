@@ -69,3 +69,17 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 
 # 💻 Hobbies
 -  Texas Hold'em, Table Tennis, Swimming and Sleeping!
+
+
+<div style="text-align: center; margin-top: 20px;">
+  <span id="busuanzi_container_site_pv" style="display: inline;">
+    👀 Total Views: <span id="busuanzi_value_site_pv"></span>
+  </span>
+  &nbsp;&nbsp;
+  <span id="busuanzi_container_site_uv" style="display: inline;">
+    🧍 Visitors: <span id="busuanzi_value_site_uv"></span>
+  </span>
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
