@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lijie Wang (Jack Wang)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/blue_max.png"
+  bio              : "FASTLab, Zhejiang University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZS1QXCIAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "NorwegianSmokedSalmon"
+  github           : "https://github.com/NorwegianSmokedSalmon"
   google_plus      :
   keybase          :
   instagram        :
