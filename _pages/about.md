@@ -42,7 +42,7 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to TMECH</div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to T-RO</div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [🍋🍋LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://www.arxiv.org/abs/2505.10018)
