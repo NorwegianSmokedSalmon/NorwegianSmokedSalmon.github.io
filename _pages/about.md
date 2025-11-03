@@ -20,7 +20,7 @@ redirect_from:
 Hi! I'm Lijie Wang, you can call me Jack Wang. I am currently a first-year master's student majoring in robotics at Zhejiang University, under the supervision of <a href='https://scholar.google.com/citations?hl=en&user=4RObDv0AAAAJ&view_op=list_works&sortby=pubdate'>Pro. Fei Gao<strong><span id='total_cit'></span></strong></a>. Also, I am fortunate to be guided by <a href='https://scholar.google.com/citations?hl=en&user=DvrngV4AAAAJ'>Pro. Xieyuanli Chen<strong><span id='total_cit'></span></strong></a>. My research interests lie in Robotics, Spatial AI, Multi-Robot System, Multi-Sensor Fusion and Robot Perception. 
 
 I obtained my Bachelor of Engineering majoring in **Robotics Engineering** with an honor degree at **Chu Kochen Honors College**, **Zhejiang University** in 2025.
-During my undergraduate years, I actively participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm now the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a>. As a core member, I have led the team to achieve multiple awards.
+During my undergraduate years, I actively participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a> from 2024 to 2025. As a core member, I have led the team to achieve multiple awards.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One Paper is accepted to 2025 ICRA!
@@ -33,7 +33,7 @@ During my undergraduate years, I actively participate in research and competitio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/graphicAbstract.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RISED: Accurate and Efficient RGB-Colorized Mapping Using Image Selection and Point Cloud Densification](https://changjianjiang01.github.io/rised-homepage/)
+[RISED: Accurate and Efficient RGB-Colorized Mapping Using Image Selection and Point Cloud Densification](https://ieeexplore.ieee.org/abstract/document/11127540)
 
 Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong, Yu Zhang
 
@@ -52,6 +52,19 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZS1QXCIAAAAJ&citation_for_view=ZS1QXCIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A multi-robot point cloud map fusion and optimization system that can generate locally accurate and globally consistent multi-robot maps, effectively eliminating blur and divergence of the map.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to RA-L</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally
+Consistent and Metric-Scale Dense Mapping](https://www.arxiv.org/abs/2505.10018)
+
+**Lijie Wang**, Lianjie Guo, Ziyi Xu, Qianhao Wang, Fei Gao, Xieyuanli Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZS1QXCIAAAAJ&citation_for_view=ZS1QXCIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A novel framework that integrates LiDAR with VGGT to achieve large-scale, dense, metric-accurate, and globally consistent reconstruction.
 </div>
 </div>
 
