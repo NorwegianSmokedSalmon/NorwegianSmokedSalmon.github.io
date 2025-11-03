@@ -71,7 +71,7 @@ Consistent and Metric-Scale Dense Mapping](https://www.arxiv.org/abs/2505.10018)
 
 # 🎖 Honors and Awards
 - *2024.12* , Scholarship of <a href='https://cn.a4x.io/'>a4x<strong><span id='total_cit'></span></strong></a>.
-
+- *2025.3* , Ordos academic rising stars.
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.Eng. in Robotics Engineering at Zhejiang University with an honor degree at Chu Kochen Honor College.
