@@ -74,7 +74,8 @@ Consistent and Metric-Scale Dense Mapping](https://www.arxiv.org/abs/2505.10018)
 
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, B.Eng. in Robotics Engineering at Zhejiang University with an honor degree at Chu Kochen Honor College.
+- *2021.09 - 2025.06*, B.Eng. in Robotics Engineering at Zhejiang University with an honor degree at Chu Kochen Honor College.
+- *2025.09 - 2028.06*, M.Sc. in Control Engineering at Zhejiang University.
 
 # 💬 Competitions
 - *2024.07*, the second place in the small size league at the Robocup international competition in Eindhoven, the Netherlands. 
