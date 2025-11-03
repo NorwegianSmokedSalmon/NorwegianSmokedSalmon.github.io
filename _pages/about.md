@@ -29,7 +29,7 @@ During my undergraduate years, I actively participate in research and competitio
 - *2024.03*: &nbsp;🎉🎉 We win the third place in the small size league in the Robocup Japan Open!
 
 # 📝 Publications 
-
+**\* denotes equal contribution.**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/graphicAbstract.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
