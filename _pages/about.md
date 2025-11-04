@@ -75,7 +75,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 
 Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang Cai and Rong Xiong
 
-[**Project**](https://arxiv.org/abs/2511.01186) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/ZJU-RoboCup) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - ZJUNlict’s advancements in robot hardware and software for 2025, developed for participation in the RoboCup competition held in Salvador, Brazil.
 </div>
 </div>
