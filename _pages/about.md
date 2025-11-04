@@ -63,7 +63,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 
 **Lijie Wang**, Lianjie Guo, Ziyi Xu, Qianhao Wang, Fei Gao, Xieyuanli Chen
 
-[**Project**](https://arxiv.org/abs/2511.01186) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/NorwegianSmokedSalmon/Color-Map-Evaluation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel framework that integrates LiDAR with VGGT to achieve large-scale, dense, metric-accurate, and globally consistent reconstruction.
 </div>
 </div>
