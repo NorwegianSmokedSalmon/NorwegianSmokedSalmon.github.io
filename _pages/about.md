@@ -59,11 +59,11 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 <div class='paper-box-text' markdown="1">
 
 [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally
-Consistent and Metric-Scale Dense Mapping](https://www.arxiv.org/abs/2505.10018)
+Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 
 **Lijie Wang**, Lianjie Guo, Ziyi Xu, Qianhao Wang, Fei Gao, Xieyuanli Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZS1QXCIAAAAJ&citation_for_view=ZS1QXCIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://arxiv.org/abs/2511.01186) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel framework that integrates LiDAR with VGGT to achieve large-scale, dense, metric-accurate, and globally consistent reconstruction.
 </div>
 </div>
