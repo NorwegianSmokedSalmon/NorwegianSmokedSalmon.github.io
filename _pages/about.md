@@ -71,7 +71,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robocup SSL ETDP</div><img src='images/zjunlict2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ZJUNlict Extended Team Paper](https://arxiv.org/abs/2511.01186)
+[ZJUNlict Extended Team Paper for Robocup Competition in Salvador, Brazil, 2025.7](https://arxiv.org/abs/2511.01186)
 
 Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang Cai and Rong Xiong
 
