@@ -75,7 +75,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 
 [High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning](https://arxiv.org/abs/2602.08653)
 
-Jiarui Zhang, Chengyong Lei, Chengjiang Dai, Lijie Wang, Zhichao Han and Fei Gao
+Jiarui Zhang, Chengyong Lei, Chengjiang Dai, **Lijie Wang**, Zhichao Han and Fei Gao
 
 [**Project**](https://arxiv.org/abs/2602.08653) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - End-to-end high-speed safe flight based on depth map reinforcement learning.
