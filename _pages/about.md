@@ -24,7 +24,7 @@ During my undergraduate years, I actively participate in research and competitio
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper LiDAR-VGGT is accepted to 2026 RA-L!
-- *2026.02*: &nbsp;🎉🎉 The firstly proposed color point cloud evaluation tool from RISED is open-sourced at https://github.com/changjianjiang01/RISED .
+- *2026.02*: &nbsp;🎉🎉 The firstly proposed color point cloud evaluation tool from RISED is open-sourced [**repo**](https://github.com/changjianjiang01/RISED).
 - *2025.02*: &nbsp;🎉🎉 Our paper RISED is accepted to 2025 ICRA!
 - *2024.07*: &nbsp;🎉🎉 We win the second place in the small size league at the Robocup international competition in Eindhoven, the Netherlands!
 - *2024.05*: &nbsp;🎉🎉 We win two championships in the small size league in the Robocup China Series in Quanzhou, Fujian!
