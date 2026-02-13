@@ -57,7 +57,7 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to RA-L</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026 RA-L</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally
@@ -70,7 +70,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to T-RO</div><img src='images/rl_flight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, T-ASE Underreview</div><img src='images/rl_flight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning](https://arxiv.org/abs/2602.08653)
