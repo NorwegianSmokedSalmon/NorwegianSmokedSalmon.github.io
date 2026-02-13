@@ -83,7 +83,7 @@ Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang
 </div>
 
 # ✏️ Academic services
-Reviewer of CVPR, RA-L and ICRA.
+- Reviewer of CVPR, RA-L and ICRA.
 
 # 🎖 Honors and Awards
 - *2024.12* , Scholarship of <a href='https://cn.a4x.io/'>a4x<strong><span id='total_cit'></span></strong></a>.
