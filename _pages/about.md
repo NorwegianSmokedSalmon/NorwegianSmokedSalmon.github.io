@@ -70,6 +70,21 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, submitted to T-RO</div><img src='images/rl_flight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning](https://arxiv.org/abs/2602.08653)
+
+Jiarui Zhang, Chengyong Lei, Chengjiang Dai, Lijie Wang, Zhichao Han and Fei Gao
+
+[**Project**](https://arxiv.org/abs/2602.08653) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- End-to-end high-speed safe flight based on depth map reinforcement learning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robocup SSL ETDP</div><img src='images/zjunlict2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robocup SSL ETDP</div><img src='images/zjunlict2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
