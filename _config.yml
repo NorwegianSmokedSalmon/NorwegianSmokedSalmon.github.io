@@ -11,6 +11,9 @@ description              : "Homepage of A Robotics Researcher"
 repository               : "NorwegianSmokedSalmon/NorwegianSmokedSalmon.github.io"
 google_scholar_stats_use_cdn : true
 
+# Maintenance Mode - set to true to enable maintenance mode
+maintenance_mode         : false
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 

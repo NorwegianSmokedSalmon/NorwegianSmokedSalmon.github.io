@@ -29,6 +29,7 @@ Some examples:
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
 - **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+- **Maintenance Mode**: easily enable/disable your website with a maintenance page by toggling a single configuration option.
 
 ## Quick Start
 
@@ -45,6 +46,7 @@ Some examples:
     1. `google_analytics_id` (optional): google analytics ID
     1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
     1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
+    1. `maintenance_mode` (optional): set to `true` to enable maintenance mode, `false` to show normal website (default: `false`)
     1. More configuration details are described in the comments.
 1. Add your homepage content in `_pages/about.md`.
     1. You can use html+markdown syntax just same as jekyll.
