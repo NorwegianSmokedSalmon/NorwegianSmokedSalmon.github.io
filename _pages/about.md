@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Lijie Wang, you can call me **Neural Jack**. I am currently a first-year master's student majoring in robotics at Zhejiang University, under the supervision of <a href='https://scholar.google.com/citations?hl=en&user=4RObDv0AAAAJ&view_op=list_works&sortby=pubdate'>Pro. Fei Gao<strong><span id='total_cit'></span></strong></a>. Also, I am fortunate to be guided by <a href='https://scholar.google.com/citations?hl=en&user=DvrngV4AAAAJ'>Pro. Xieyuanli Chen<strong><span id='total_cit'></span></strong></a>. My research interests lie in Robotics, Spatial AI, Multi-Robot System, Multi-Sensor Fusion and Robot Perception. 
+I am currently a first-year master's student majoring in robotics at Zhejiang University, under the supervision of <a href='https://scholar.google.com/citations?hl=en&user=4RObDv0AAAAJ&view_op=list_works&sortby=pubdate'>Pro. Fei Gao<strong><span id='total_cit'></span></strong></a>. Also, I am fortunate to be guided by <a href='https://scholar.google.com/citations?hl=en&user=DvrngV4AAAAJ'>Pro. Xieyuanli Chen<strong><span id='total_cit'></span></strong></a>. My research interests now lie in World Model, Manipulation, 3D Geometry and diffusion policy, specially focusing on Physics Modeling in Real World. Previously, I studied Multi-Sensor Fusion and Robot Mapping with a concentration on Multi-Session Mapping and LiDAR Visual Fusion.
 
 I obtained my Bachelor Degree of Engineering majoring in **Robotics Engineering** with an honor degree at **Chu Kochen Honors College**, **Zhejiang University** in 2025.
-During my undergraduate years, I actively participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a> from 2024 to 2025. As a core member, I have led the team to achieve multiple awards.
+During my undergraduate years, I participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a> from 2024 to 2025, and work as a mentor in 2026. As a core member, I have worked with the team to achieve multiple awards.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper "High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning" is accepted to RA-L.
+- *2026.05*: &nbsp;🎉🎉 I won the Zhejiang Provincial Competition championship as the mentor of ZJUNlict.
 - *2026.02*: &nbsp;🎉🎉 Our paper LiDAR-VGGT is accepted to 2026 RA-L!
 - *2026.02*: &nbsp;🎉🎉 The firstly proposed color point cloud evaluation tool from RISED is open-sourced [**repo**](https://github.com/changjianjiang01/RISED).
 - *2025.02*: &nbsp;🎉🎉 Our paper RISED is accepted to 2025 ICRA!
@@ -75,7 +77,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 
 [High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning](https://arxiv.org/abs/2602.08653)
 
-Jiarui Zhang, Chengyong Lei, Chengjiang Dai, **Lijie Wang**, Zhichao Han and Fei Gao
+Jiarui Zhang, Chengyong Lei, Chengjiang Dai, Kenghou Hoi, **Lijie Wang**, Zhichao Han and Fei Gao
 
 [**Project**](https://arxiv.org/abs/2602.08653) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - End-to-end high-speed safe flight based on depth map reinforcement learning.
@@ -95,7 +97,7 @@ Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang
 </div>
 
 # ✏️ Academic services
-- Reviewer of CVPR, RA-L and ICRA.
+- Reviewer of RSS, CVPR, RA-L, ICRA, Iros.
 
 # 🎖 Honors and Awards
 - *2024.12* , Scholarship of <a href='https://cn.a4x.io/'>a4x<strong><span id='total_cit'></span></strong></a>.
@@ -111,7 +113,7 @@ Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang
 - *2024.03*, the third place in the small size league in the Robocup Japan Open.
 
 # 💻 Hobbies
--  Texas Hold'em, Table Tennis, Swimming and Sleeping!
+-  Texas Hold'em, Table Tennis, Swimming and Sleeping.
 
 
 <div style="text-align: center; margin-top: 20px;">
