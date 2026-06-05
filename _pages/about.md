@@ -22,6 +22,10 @@ I am currently a first-year master's student majoring in robotics at Zhejiang Un
 I obtained my Bachelor Degree of Engineering majoring in **Robotics Engineering** with an honor degree at **Chu Kochen Honors College**, **Zhejiang University** in 2025.
 During my undergraduate years, I participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a> from 2024 to 2025, and work as a mentor in 2026. As a core member, I have worked with the team to achieve multiple awards.
 
+I am actively seeking collaborators to work together with, focusing on **World Action Model**, **World Model**, **3D Geometry** and **Embodied AI**. Also, if you want LiDAR Mapping topics, feel free to email me.
+
+**Open to both Ph.D. opportunities and industry positions.**
+
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper "High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning" is accepted to RA-L.
 - *2026.05*: &nbsp;🎉🎉 I won the Zhejiang Provincial Competition championship as the mentor of ZJUNlict.
@@ -59,7 +63,7 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026 & ICRA 2027</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally
@@ -72,7 +76,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, RA-L Underreview</div><img src='images/rl_flight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/rl_flight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning](https://arxiv.org/abs/2602.08653)
