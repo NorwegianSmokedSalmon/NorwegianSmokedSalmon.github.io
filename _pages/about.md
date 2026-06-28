@@ -27,6 +27,7 @@ I am actively seeking collaborators to work together with, focusing on **World A
 **Open to both Ph.D. opportunities and industry positions.**
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper LEMON-Mapping is accepted to T-ASE.
 - *2026.06*: &nbsp;🎉🎉 Our paper "High-Speed Vision-Based Flight in Clutter with Safety-Shielded Reinforcement Learning" is accepted to RA-L.
 - *2026.05*: &nbsp;🎉🎉 I won the Zhejiang Provincial Competition championship as the mentor of ZJUNlict.
 - *2026.02*: &nbsp;🎉🎉 Our paper LiDAR-VGGT is accepted to 2026 RA-L!
@@ -51,7 +52,7 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, T-ASE Underreview</div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2026 </div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [🍋🍋LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://www.arxiv.org/abs/2505.10018)
@@ -88,6 +89,18 @@ Jiarui Zhang, Chengyong Lei, Chengjiang Dai, Kenghou Hoi, **Lijie Wang**, Zhicha
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L Underreview</div><img src='images/fall_recovery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Agile Fall Recovery for Quadrotors with Bidirectional Thrust via Reinforcement Learning](https://arxiv.org/pdf/2606.16513)
+
+Anke Zhao, Yuhang Zhong, Kenghou Hoi, Junyu Mou, Junjie Wang, **Lijie Wang**, Jialiang Hou, Fei Gao
+
+[**Project**](https://arxiv.org/pdf/2606.16513) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- End-to-end Fall Recovery from Any Initial Poses via Reinforcement Learning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robocup SSL ETDP</div><img src='images/zjunlict2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +114,7 @@ Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang
 </div>
 
 # ✏️ Academic services
-- Reviewer of RSS, CVPR, RA-L, ICRA, Iros.
+- Reviewer of T-RO, RSS, CVPR, RA-L, ICRA, Iros.
 
 # 🎖 Honors and Awards
 - *2024.12* , Scholarship of <a href='https://cn.a4x.io/'>a4x<strong><span id='total_cit'></span></strong></a>.
