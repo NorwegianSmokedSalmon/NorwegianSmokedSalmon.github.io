@@ -40,10 +40,10 @@ I am actively seeking collaborators to work together with, focusing on **World A
 # 📝 Publications 
 **\* denotes equal contribution.**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 Underreview</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 Underreview</div><img src='images/ICLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Acting ****************************]()
+[Acting **************************]()
 
 ****************************************************
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
