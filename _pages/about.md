@@ -77,6 +77,17 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2026 </div><img src='images/layerroute.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies](https://arxiv.org/abs/2609.06079)
+
+Zheng Lu, Haoran Liao, Wanqi Zhong, Yunhe Ni, **Lijie Wang**, Xingjie Fan, Zhisheng Chen, Yantang Qu, Meijia Chen, Tianyu Xin, Zirui Song, Yiming Li
+[**Project**](https://arxiv.org/abs/2609.06079) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- LayerRoute replaces fixed representation access in VLA policies with action-conditioned routing over VLM layers and explicit action-state reuse..
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/rl_flight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
