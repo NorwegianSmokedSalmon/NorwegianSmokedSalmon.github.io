@@ -39,6 +39,18 @@ I am actively seeking collaborators to work together with, focusing on **World A
 
 # 📝 Publications 
 **\* denotes equal contribution.**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 Underreview</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Acting ****************************]()
+
+****************************************************
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Robotic Manipulation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/graphicAbstract.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,7 +89,7 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2026 </div><img src='images/layerroute.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 Underreview</div><img src='images/layerroute.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies](https://arxiv.org/abs/2609.06079)
