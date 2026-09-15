@@ -65,7 +65,7 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2026 \& IROS 2027</div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2026 $\&$ IROS 2027</div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [🍋🍋LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://www.arxiv.org/abs/2505.10018)
@@ -77,7 +77,7 @@ Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026 \& ICRA 2027</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026 $\&$ ICRA 2027</div><img src='images/lidarvggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally
