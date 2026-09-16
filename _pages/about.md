@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year master's student majoring in robotics at Zhejiang University, under the supervision of <a href='https://scholar.google.com/citations?hl=en&user=4RObDv0AAAAJ&view_op=list_works&sortby=pubdate'>Pro. Fei Gao<strong><span id='total_cit'></span></strong></a>. Also, I am fortunate to be guided by <a href='https://scholar.google.com/citations?hl=en&user=DvrngV4AAAAJ'>Pro. Xieyuanli Chen<strong><span id='total_cit'></span></strong></a>. My research interests now lie in World Model, Manipulation, 3D Geometry and diffusion policy, specially focusing on Physics Modeling in Real World. Previously, I studied Multi-Sensor Fusion and Robot Mapping with a concentration on Multi-Session Mapping and LiDAR Visual Fusion.
+I am currently a second-year master's student majoring in robotics at Zhejiang University, under the supervision of <a href='https://scholar.google.com/citations?hl=en&user=4RObDv0AAAAJ&view_op=list_works&sortby=pubdate'>Pro. Fei Gao<strong><span id='total_cit'></span></strong></a>. Also, I am fortunate to collaborate with <a href='https://scholar.google.com/citations?hl=en&user=DvrngV4AAAAJ'>Pro. Xieyuanli Chen<strong><span id='total_cit'></span></strong></a>. My research interests now lie in World Model, Manipulation, 3D Geometry and diffusion policy, specially focusing on Physics Modeling in Real World. Previously, I studied Multi-Sensor Fusion and Robot Mapping with a concentration on Multi-Session Mapping and LiDAR Visual Fusion.
 
 I obtained my Bachelor Degree of Engineering majoring in **Robotics Engineering** with an honor degree at **Chu Kochen Honors College**, **Zhejiang University** in 2025.
 During my undergraduate years, I participate in research and competitions, closely collaborating with <a href='https://scholar.google.com/citations?user=tpOOC4zBfZ8C&hl=en'>Pro. Yu Zhang<strong><span id='total_cit'></span></strong></a>, <a href='https://scholar.google.com/citations?hl=en&user=1hI9bqUAAAAJ'>Pro. Rong Xiong<strong><span id='total_cit'></span></strong></a>, and <a href='https://scholar.google.com/citations?user=N543LSoAAAAJ&hl=en'>Pro. Yue Wang<strong><span id='total_cit'></span></strong></a>. In competitions, I'm the team leader of <a href='https://github.com/ZJUNlict'>ZJUNlict<strong><span id='total_cit'></span></strong></a>, Zhejiang University's team in the <a href='https://ssl.robocup.org/'>RoboCup Soccer Small Size League (SSL)<strong><span id='total_cit'></span></strong></a> from 2024 to 2025, and work as a mentor in 2026. As a core member, I have worked with the team to achieve multiple awards.
 
 I am actively seeking collaborators to work together with, focusing on **World Action Model**, **World Model**, **3D Geometry** and **Embodied AI**. Also, if you want LiDAR Mapping topics, feel free to email me.
 
-**Open to both Ph.D. opportunities and industry positions.**
+<span style="color: red; font-weight: bold;">Open to both Ph.D. opportunities and industry positions.</span>
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper LEMON-Mapping is accepted to T-ASE.
@@ -43,12 +43,12 @@ I am actively seeking collaborators to work together with, focusing on **World A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 Underreview</div><img src='images/ICLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[..............]()
+[Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation]()
 
-Anonymous
+**Lijie Wang**\*, **Zheng Lu**, **Yiming Wang**, Heyang Yu, Kenghou Hoi, Bowen Hu, Di Cui, Tianyu Xin, Haoran Liao, Wanqi Zhong, Xingjie Fan, Yizhao Xu, Ziliang Wang, Fei Gao, Yiming Li
 
 [**Project**](...) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic Manipulation.
+- Precise Robotic Manipulation.
 </div>
 </div>
 
