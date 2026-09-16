@@ -45,7 +45,7 @@ I am actively seeking collaborators to work together with, focusing on **World A
 
 [Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation]()
 
-**Lijie Wang**\*, **Zheng Lu**, **Yiming Wang**, Heyang Yu, Kenghou Hoi, Bowen Hu, Di Cui, Tianyu Xin, Haoran Liao, Wanqi Zhong, Xingjie Fan, Yizhao Xu, Ziliang Wang, Fei Gao, Yiming Li
+**Lijie Wang**\*, Zheng Lu\*, Yiming Wang\*, Heyang Yu, Kenghou Hoi, Bowen Hu, Di Cui, Tianyu Xin, Haoran Liao, Wanqi Zhong, Xingjie Fan, Yizhao Xu, Ziliang Wang, Fei Gao, Yiming Li
 
 [**Project**](...) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Precise Robotic Manipulation.
