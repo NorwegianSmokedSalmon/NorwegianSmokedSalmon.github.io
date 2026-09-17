@@ -52,19 +52,6 @@ I am actively seeking collaborators to work together with, focusing on **World A
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/graphicAbstract.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RISED: Accurate and Efficient RGB-Colorized Mapping Using Image Selection and Point Cloud Densification](https://ieeexplore.ieee.org/abstract/document/11127540)
-
-Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong, Yu Zhang
-
-[**Project**](https://changjianjiang01.github.io/rised-homepage/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A offline system for high-precision dense color point cloud reconstruction, which provides a different approach from the current method and proposes a comprehensive and quantitative evaluation standard for colorized point clouds.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2026 $\&$ IROS 2027</div><img src='images/tmech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,6 +74,18 @@ Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186)
 
 [**Project**](https://github.com/NorwegianSmokedSalmon/Color-Map-Evaluation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel framework that integrates LiDAR with VGGT to achieve large-scale, dense, metric-accurate, and globally consistent reconstruction.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/graphicAbstract.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RISED: Accurate and Efficient RGB-Colorized Mapping Using Image Selection and Point Cloud Densification](https://ieeexplore.ieee.org/abstract/document/11127540)
+
+Changjian Jiang\*, **Lijie Wang**\*, Zeyu Wan, Ruilan Gao, Yue Wang, Rong Xiong, Yu Zhang
+
+[**Project**](https://changjianjiang01.github.io/rised-homepage/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A offline system for high-precision dense color point cloud reconstruction, which provides a different approach from the current method and proposes a comprehensive and quantitative evaluation standard for colorized point clouds.
 </div>
 </div>
 
