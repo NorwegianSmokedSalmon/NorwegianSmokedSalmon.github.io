@@ -136,6 +136,21 @@ Zifei Wu, **Lijie Wang**, Zhe Yang, Shijie Yang, Liang Wang, Haoran Fu, Yinliang
 </div>
 </div>
 
+# 📚 Robotics Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Quadrotor RL</div><img src='https://cdn.jsdelivr.net/gh/calcualatexzy/Flight-RL@main/docs/media/figure8.gif' alt="Flight-RL figure-eight tracking" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Flight-RL: Quadrotor Trajectory Tracking with Reinforcement Learning](https://github.com/calcualatexzy/Flight-RL)
+
+[**Code**](https://github.com/calcualatexzy/Flight-RL)
+- A PyBullet + Gymnasium + PPO framework for quadrotor trajectory tracking over nine path families (hover, line, circle, figure eight, helix, slalom, wave, vertical loop, Lissajous) with 2,880 generated reference paths.
+- Supports a direct policy (thrust and moments) and a residual policy that adds bounded corrections to a geometric feedforward controller, trained with a speed curriculum.
+- Includes demo export (videos, GIFs, traces, metrics) and a held-out benchmark, with 67 automated tests.
+</div>
+</div>
+
+
 # ✏️ Academic services
 - Reviewer of T-RO, RSS, CVPR, RA-L, ICRA, Iros.
 
